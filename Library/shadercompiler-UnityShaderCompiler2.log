@@ -1,0 +1,28 @@
+Base path: /Applications/Unity/Unity.app/Contents
+Cmd: getPlatforms
+Cmd: disassembleShader
+  api=4 insize=1110 outsize=1110 ok=1
+Cmd: disassembleShader
+  api=5 insize=979 outsize=979 ok=1
+Cmd: disassembleShader
+  api=4 insize=1215 outsize=1215 ok=1
+Cmd: disassembleShader
+  api=4 insize=1446 outsize=1446 ok=1
+Cmd: disassembleShader
+  api=5 insize=1280 outsize=1280 ok=1
+Cmd: disassembleShader
+  api=4 insize=1551 outsize=1551 ok=1
+Cmd: disassembleShader
+  api=4 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=4 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=4 insize=0 outsize=57 ok=1
+
+Quitting shader compiler process
